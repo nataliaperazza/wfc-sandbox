@@ -8,6 +8,6 @@ en la Facultad de Informática de la UNLP y de Sistemas Distribuidos de la
 Maestría Redes de Datos de la UNLP. Además, es Consultor de DataCenter en
 Ministerio de Hacienda de Nación, Director de Tecnología en Mikroways.
 
-[Christian](./car.jpg)
+![Christian](./car.jpg)
 
 
