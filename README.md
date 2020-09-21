@@ -28,9 +28,11 @@ ficticio. Considere que el repositorio será público por lo que sus datos
 quedarán expuestos.
 Puede además subir imágenes, documentos o lo que desee.
 
-A modo de ejemplo, ponemos información acerca del docente. 
+A modo de ejemplo, exponemos información acerca del docente en la misma carpeta
+del curso donde los alumnos deberán subir su información.
 
 Para poder contribuir, entonces deberán crear un fork en un repositorio que
 pertenezca a su usuario. Luego, trabajar en una nueva rama para agergar sus
 datos, y finalmente relizar un pull request.
 
+> En el libro de git, puede encontrar información de como crear un [pull request](https://git-scm.com/book/es/v2/GitHub-Participando-en-Proyectos).
